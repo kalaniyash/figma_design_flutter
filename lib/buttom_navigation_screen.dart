@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'buttomnavigation_screen/card_screen.dart';
 import 'buttomnavigation_screen/card_tabbar_screen.dart';
 import 'buttomnavigation_screen/favorite_screen.dart';
 import 'buttomnavigation_screen/home_screen.dart';
